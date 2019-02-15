@@ -1,7 +1,7 @@
 def division(num1 / num2)
 
 end
-puts division(10, 2)
+puts division(12, 2)
 
 def assign_variable(value)
 
